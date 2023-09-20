@@ -3,9 +3,7 @@
 ### Hi there 👋, It's me, Rafi Bin Arman
 #### Business Intelligence Analyst
 
-As BI Analyst, I apply my passion and skills in data analytics to support the company's digital transformation and innovation in the healthcare sector. I prepare and harmonize data of various KPIs in a Python-based analytical table in Databricks, extract and analyse data with SQL in Teradata, and visualize the results using Power BI. I also leverage machine learning to identify drivers of spare parts costs and optimize the inventory management.
-
-I am pursuing my master's degree in business analytics at Otto-von-Guericke University Magdeburg, where I learn and explore various topics such as operations research, blockchain, programming languages, and data science. I have a bachelor's degree in economics from the University of Rajshahi.  I have also obtained multiple certifications in Python, SQL and Power BI. I have a keen interest in voluntary activities, global affairs and social issues.
+As BI Analyst, I apply my passion and skills in data analytics and Machine Learning to support the company's digital transformation and innovation. I am pursuing my master's degree in business analytics at Otto-von-Guericke University Magdeburg, where I learn and explore various topics such as financial engineering, blockchain, programming languages, and data science. I have a bachelor's degree in economics from University of Rajshahi. I have a keen interest in voluntary activities, global affairs and social issues.
 
 Skills: Python / SQL / Power BI / MS Excel
 
