@@ -1,5 +1,3 @@
-![Business Intelligence Analyst](https://media.licdn.com/dms/image/C4E16AQFWMvfGi49Xpw/profile-displaybackgroundimage-shrink_350_1400/0/1649382882658?e=1700697600&v=beta&t=qHDkNfH3oI5WJggCTvwHBH0FIW6gIXocH7dB8LtNt-U)
-
 ### Hi there 👋, It's me, Rafi Bin Arman
 #### Business Intelligence Analyst
 
